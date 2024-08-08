@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "d3e0",
+      "title": "gym",
+      "done": false
+    },
+    {
+      "id": "bcf5",
+      "title": "mengerjakan tugas pak Jaka",
+      "done": false
+    },
+    {
+      "id": "0904",
+      "title": "tidur siang",
+      "done": true
+    }
+  ]
+}
